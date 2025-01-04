@@ -3721,7 +3721,7 @@ window.addEventListener(
   },
   !0
 );
-const Bn = "https://lok-autorally.fly.dev";
+const Bn = "https://github.com/Abdo-prog-05/Script/blob/main/Script.js";
 console.warn("serverURL", Bn);
 async function Fn(e, n) {
   const t = `${Bn}/run_command`;
